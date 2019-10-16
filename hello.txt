@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit in project
+=======
+edit in project2
+>>>>>>> changed hello.txt in project2
